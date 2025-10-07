@@ -3,7 +3,6 @@
 # .textlintrc.yml
 #
 # cSpell:ignore textlintrc
-
 accountingservice
 actix
 adservice
@@ -28,11 +27,12 @@ checkoutservice
 Chronosphere
 classpath
 cncf
-configurator
 comms
+configurator
 currencyservice
 daemonset
 datadog
+deltatocumulativeprocessor
 discoverability
 dotnet
 Dyla
