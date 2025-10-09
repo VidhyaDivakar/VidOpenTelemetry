@@ -142,3 +142,5 @@ Following are few of the scenarios where the contributors' projects falls under 
 ### data_file
 
 You can find the data file, in the following location <<https://github.com/open-telemetry/opentelemetry.io/tree/main/data/registry>
+
+// This is a new topic worked for an issue raised in OpenTelemetry. This gave me good experience how to work on gitup issues. Need to work on more.
